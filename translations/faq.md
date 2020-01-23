@@ -2,7 +2,7 @@
 
 ## What documents are available for translation?
 
-We don't maintain a public list, as the documents that are available for translation are subject to change. Don't hesitate to ask a team member in the #translations channel in our Discord server for the most up-to-date information.
+We don't maintain a public list, as the documents that are available for translation are subject to change. Don't hesitate to ask a team member in the #translations channel in our [Discord[(https://discord.gg/Dgk2shG)] server for the most up-to-date information.
 
 ## How can I get involved?
 

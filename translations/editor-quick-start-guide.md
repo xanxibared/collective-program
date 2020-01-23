@@ -25,11 +25,11 @@ Responsibilities consist of proofreading documents for:
 - **Maintain Original Formatting:** Refer to the [style guide]../community/blob/master/contributing/style-guide.md).
 - **Use a Markdown Editor:** Editors like [Atom](https://atom.io/), [hackmd.io](https://hackmd.io/), or [VScode](https://code.visualstudio.com/) make working with Markdown more convenient.
 - **Editor Tools:** Feel free to use any software that helps find translation errors and improve writing. We encourage using tools that assist workflow. Mindlessly copying from a program will disqualify you from receiving a bounty and from future assignments. Please use them as an aide and not a substitute for your work.
-- **Communicate early and often**: Join the #translations channel in our [Discord](https://discord.gg/c6p7VR6). We encourage reaching out to translators and editors for guidance.
+- **Communicate early and often**: Join the #translations channel in our [Discord](https://discord.gg/Dgk2shG). We encourage reaching out to translators and editors for guidance.
 
 ## Getting Started
 
-- Join our [Discord](https://discord.gg/c6p7VR6).
+- Join our [Discord](https://discord.gg/Dgk2shG).
 - Ask about editing opportunities in the #translations channel.
 - Fill out this [application form](https://forms.gle/H2RSbU2WJza28ouv8).
 - Get assigned a task by the project coordinator.

@@ -32,9 +32,9 @@ If you have any suggestions about how you think these initiatives should work, c
 
 ## Our Resources
 
-### [How-To-Bloom](https://github.com/hellobloom/how-to-bloom/)
+### [How-To-Bloom](how-to-bloom/README.md)
 
-Awesome-Bloom is a community-curated list of Bloom-related resources and content to which anyone can contribute. It contains official documentation, beginner guides, in-depth analysis, links to 3rd party tools, partnership announcements, AMAs, podcasts, and much more.
+How-To-Bloom is a community-curated list of Bloom-related resources and content to which anyone can contribute. It contains official documentation, beginner guides, in-depth analysis, links to third-party tools, partnership announcements, AMAs, podcasts, and much more.
 
 ### [Bloom FAQs](faqs/README.md)
 
