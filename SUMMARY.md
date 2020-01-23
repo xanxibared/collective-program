@@ -19,6 +19,8 @@
   - [中文](faqs/zh/README.md)
 - [Development Grants Program](grants/README.md)
   - [Grantee Playbook](grants/grantee-playbook.md)
+- [Outreach Templates](outreach/README.md)
+- [Use Cases](useCases/README.md)
 - [Contributing](contributing/README.md)
   - [Style Guide](contributing/style-guide.md)
   - [FAQ](contributing/faq.md)

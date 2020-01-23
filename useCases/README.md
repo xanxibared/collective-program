@@ -1,12 +1,16 @@
 Uses of the dApp:
 
 - Register BloomID
-- Attest identity data (mobile phone, Facebook account, email, sanction screening, politically exposed person screening, government photo identification)
+- Verify identity data (mobile phone, Facebook account, email, sanction screening, politically exposed person screening, government photo identification)
 - Invite friends and family
-- Stake friends and family, especially those that lack government photo ID
+- Stake friends and family, especially those that lack government photo ID [future]
   - Improves your BloomScore and theirs
-- Access loans via Bloom Marketplace
-- Register and authenticate for hundreds of services
+- Access loans via Bloom Marketplace [web dApp]
+- Register and/or authenticate for hundreds of services
+  - AmazenPay
+  - Raise.it
+  - Replin
+  - Bounty0x
   - SpringRole
   - ETHLend
   - Exchanges (future)
