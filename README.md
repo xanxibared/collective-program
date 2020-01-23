@@ -28,7 +28,7 @@ The Bloom Development Grants program provides funding for projects that increase
 
 ### [Contributing](contributing/README.md)
 
-If you have any suggestions about how you think these initiatives should work, could be improved, or if you are interested in helping out, please join our [Telegram](https://t.me/bloomprotocol) group and introduce yourself. We may invite you to our [Colony](https://bloomcollective.colony.joincolony.eth).
+If you have any suggestions about how you think these initiatives should work, could be improved, or if you are interested in helping out, please join our [Telegram](https://t.me/bloomprotocol) group or [Discord](https://discord.gg/Dgk2shG) server and introduce yourself. We may invite you to our [Colony](https://colony.io/colony/bloomcollective).
 
 ## Our Resources
 
