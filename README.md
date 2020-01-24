@@ -12,6 +12,8 @@ The Collective members are broken up into three tiers based on their activity an
 
 As Collective members host events, translate documents, and contribute in other ways to promoting the Bloom protocol, they will earn reputation in the [Bloom Collective's Colony](https://colony.io/colony/bloomcollective).
 
+If you are ready to get started, please fill out and submit [this application](https://docs.google.com/forms/d/e/1FAIpQLSfo2_D9-COtLNQXOmgQqErHLKR6RSsDS30WuA7c4BHg_dGH4Q/viewform).
+
 ## Our Initiatives
 
 ### [Community Meetup Grants](meetups/README.md)
@@ -29,6 +31,10 @@ The Bloom Development Grants program provides funding for projects that increase
 ### [Contributing](contributing/README.md)
 
 If you have any suggestions about how you think these initiatives should work, could be improved, or if you are interested in helping out, please join our [Telegram](https://t.me/bloomprotocol) group or [Discord](https://discord.gg/Dgk2shG) server and introduce yourself. We may invite you to our [Colony](https://colony.io/colony/bloomcollective).
+
+### How to Join
+
+Just fill out [this application](https://docs.google.com/forms/d/e/1FAIpQLSfo2_D9-COtLNQXOmgQqErHLKR6RSsDS30WuA7c4BHg_dGH4Q/viewform), and someone will respond within three business days.
 
 ## Our Resources
 
