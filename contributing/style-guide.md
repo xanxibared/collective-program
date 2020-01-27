@@ -110,7 +110,7 @@ When bulleted and numbered lists contain complete sentences, capitalize the firs
 
 - Use descriptive hyperlinks. Avoid generic terms:
   - **No:** Learn more [here](#).
-  - **Yes:** Learn more at [awesome-bloom](#).
+  - **Yes:** Learn more at [awesome-bloom](../how-to-bloom).
 - When creating links for parallel translated documents, ensure relative links are updated to reflect the correct heading:
 
   ```text

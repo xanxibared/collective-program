@@ -32,7 +32,6 @@ We've included several guides and also some additional resources to help you org
 - [Promotion Guide](./promotion-guide.md)
 - [Event Formats Guide](./event-formats-guide.md)
 - [Design files](https://github.com/hellobloom/bloom-collective/images)
-- [Example Presentations](#)
 - [Usable Slides and Presentation Decks](./assets/slides)
 
 ## Hosting the meetup
@@ -43,13 +42,13 @@ Once you have your meetup plan ready, speakers confirmed, the venue set, and the
 
 - Send communications to all the essential parties early in the day.
 - Repeat promotional messaging across all of your channels on the day of the event.
-- Read through the [Feedback Form](#) beforehand, so you are familiar with the various details you need to keep track of.
+- Read through the [Feedback Form](https://forms.gle/orUSYhVEYnwoGQhw7) beforehand, so you are familiar with the various details you need to keep track of.
 - Arrive at your venue early to prepare and test the equipment.
 - During the introduction, describe the agenda, introduce the speakers, and talk about the key takeaways participants can expect from the event.
 - Be welcoming and informative.
 
 ## Post-Event Process
 
-As part of the requirements for getting funding approved, we require hosts to provide information about their event after-the-fact in a [Feedback Form](#). This helps us to better understand the impact of these events and what we can do to help make them better.
+As part of the requirements for getting funding approved, we require hosts to provide information about their event after-the-fact in a [Feedback Form](https://forms.gle/orUSYhVEYnwoGQhw7). This helps us to better understand the impact of these events and what we can do to help make them better.
 
-Organizers should read through the [Feedback Form](#) before their event so they can be prepared to answer the questions.
+Organizers should read through the [Feedback Form](https://forms.gle/orUSYhVEYnwoGQhw7) before their event so they can be prepared to answer the questions.
