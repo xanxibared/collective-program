@@ -12,9 +12,9 @@ If your Community Meetup Form is accepted, the following are required:
 - After your event, please fill out and submit a [Feedback Form](https://forms.gle/Gf5JpZJussYWyA8E7).
   - **Grantees who do not fill out this form will not be eligible for future funding**.
 - If you are planning to charge an entry fee please disclose the amount you anticipate collecting in the "additional notes" section of the [Community Meetup Form](https://forms.gle/3jWWca3xR8shLtrW9).
-  - Please write the actual amount collected in the [Feedback Form](#).
+  - Please write the actual amount collected in the [Feedback Form](https://forms.gle/orUSYhVEYnwoGQhw7).
   - Please speak briefly about Community Development at Bloom to the attendees of your event:
-    - Direct people to the [Collective Application Form](https://github.com/hellobloom/collective-program/blob/master/meetups/README.md)
+    - Direct people to the [Collective Application Form](https://forms.gle/XdKCcTw26UTX277AA)
     - Mention that we have several initiatives for people who want to contribute to Bloom
     - Mention that we award Dai bounties varying by the type of contribution.
 
