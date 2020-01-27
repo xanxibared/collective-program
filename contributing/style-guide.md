@@ -100,7 +100,7 @@ When bulleted and numbered lists contain complete sentences, capitalize the firs
 
 - Ensure repositories are up to date.
 - **Commit early and commit often.** Submit changes before large merges.
-- Discuss efforts in [#community-development](https://chat.bloom.co/channel/community-development).
+- Discuss efforts in [Discord](https://discord.gg/Dgk2shG). There is a set of channels only available to Collective members.
 - Ask for feedback before starting long projects.
 - Make descriptive commit messages:
   - Incorrect: "Fixed something"
