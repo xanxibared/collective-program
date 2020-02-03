@@ -33,4 +33,4 @@ Grantees that successfully complete their milestones and launch a product may al
 
 ## Applying
 
-Projects that propose novel and usable tools that directly benefit the Bloom protocol, or use Bloom's protocol and/or BLT, are invited to send a one or two page detailed description outlining *exactly what the project does*, how it works, the problem it solves, and a projected budget to grants@bloom.co. Please remember, we prioritize applications that have conservative budgets.
+Projects that propose novel and usable tools that directly benefit the Bloom protocol, or use Bloom's protocol and/or BLT, are invited to send a one or two page detailed description outlining *exactly what the project does*, how it works, the problem it solves, and a projected budget to team@bloom.co. Please remember, we prioritize applications that have conservative budgets.
