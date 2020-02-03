@@ -12,7 +12,7 @@ Our grants program is designed to allow teams to achieve a successful release of
 
 Grantees that successfully complete their milestones and launch a product may also gain access to internal Bloom resources. These can take many forms from code reviews and external security audits, to consultations with Legal, Public Relations and/or Business Development teams. Successful projects will also be prioritized for continued granting and or possible investments from Bloom in future iterations of the program.
 
-Grant Ideas:
+## Grant Ideas:
 
 - Build a BloomID authentication module for Particl
 - Build a BloomID authentication plugin for WordPress.com
@@ -30,3 +30,7 @@ Grant Ideas:
     - A bouncer/door person would display a QR code on a device; the customer would scan the QR code and share their name and age; the bouncer would receive a successful verification on their device
   - KYC/identity verification for ICOs and/or applying for jobs
     - Grantees can use https://github.com/hellobloom/bloom-starter as a codebase
+
+## Applying
+
+Projects that propose novel and usable tools that directly benefit the Bloom protocol, or use Bloom's protocol and/or BLT, are invited to send a one or two page detailed description outlining *exactly what the project does*, how it works, the problem it solves, and a projected budget to grants@bloom.co. Please remember, we prioritize applications that have conservative budgets.
