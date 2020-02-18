@@ -44,3 +44,18 @@ Community members are also invited to audit existing documents on our git [repos
 ## Are there deadlines? How are they determined?
 
 Yes, there are deadlines. They are individually negotiated, vary between assignments, and are ultimately determined by the coordinator. Our coordinators issue and manage assignments for approved applicants.
+
+## How many BCR will I earn for translations?
+
+Great question! BCR tokens will be distributed at the following values:
+
+| Length        | Audio?        | BCR   |
+| ------------- |:-------------:| -----:|
+| Less than 250 words    | No  | 5 |
+| Less than 250 words    | Yes  | 10 |
+| 250 - 500 words      | No    |   10 |
+| 250 - 500 words      | Yes    |   20 |
+| 500 - 1000 words | No     |    15 |
+| 500 - 1000 words | Yes     |    30 |
+| 1000 words and higher | No     |    20 |
+| 1000 words and higher | Yes     |    40 |
