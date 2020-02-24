@@ -24,3 +24,13 @@ You may seek additional help or advice in our [Colony](https://colony.io/colony/
 ## Can I organize more than one meetup group?
 
 We provide funding for one event at a time. Each following grant requires that the organizer fill out a feedback form about the previous event.
+
+## How many BCR and DAI will I earn for hosting meetups?
+
+Great question! BCR tokens will be distributed at the following values:
+
+| Event Size    | BCR   | DAI |
+| ------------- | -----:| ---:|
+| Less than 10 attendees | 100 | Based on needs |
+| Between 10 and 50 attendees | 200 | Based on needs |
+| More than 50 attendees      | 300 | Based on needs |
